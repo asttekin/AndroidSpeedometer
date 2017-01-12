@@ -1,4 +1,4 @@
-## Android-Speedometer
+## AndroidSpeedometer
 
 Android自定义控件项目，汽车速度计控件，支持加速减速，指定速度值，更新总里程和获取当前速度相关。
 
@@ -6,14 +6,14 @@ Android自定义控件项目，汽车速度计控件，支持加速减速，指�
 
 ScreenShot文件夹为效果演示图（与项目代码无关）
 
-![](https://raw.githubusercontent.com/smartbetter/Android-Speedometer/master/ScreenShot/screenshot1.gif)
-![](https://raw.githubusercontent.com/smartbetter/Android-Speedometer/master/ScreenShot/screenshot2.gif)
-![](https://raw.githubusercontent.com/smartbetter/Android-Speedometer/master/ScreenShot/screenshot3.gif)
-![](https://raw.githubusercontent.com/smartbetter/Android-Speedometer/master/ScreenShot/screenshot4.gif)
+![](https://raw.githubusercontent.com/smartbetter/AndroidSpeedometer/master/ScreenShot/screenshot1.gif)
+![](https://raw.githubusercontent.com/smartbetter/AndroidSpeedometer/master/ScreenShot/screenshot2.gif)
+![](https://raw.githubusercontent.com/smartbetter/AndroidSpeedometer/master/ScreenShot/screenshot3.gif)
+![](https://raw.githubusercontent.com/smartbetter/AndroidSpeedometer/master/ScreenShot/screenshot4.gif)
 
 ## Explain
 
-SpeedView 是 Android-Speedometer自定义View，SpeedData是SpeedView绘图逻辑部分。
+SpeedView 是 AndroidSpeedometer自定义View，SpeedData是SpeedView绘图逻辑部分。
 
 SpeedView 对外提供了以下方法：
 	
